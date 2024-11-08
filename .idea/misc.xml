@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/cs335-assignment2-interfaces/pom.xml" />
+        <option value="$PROJECT_DIR$/cs335-assignment3-array-iteration/pom.xml" />
+        <option value="$PROJECT_DIR$/CS335-Assignment4-DynamicArray/pom.xml" />
+        <option value="$PROJECT_DIR$/CS335-Assignment5-StableSort/pom.xml" />
+        <option value="$PROJECT_DIR$/CS335-Assignment6-RecursiveSort/pom.xml" />
+        <option value="$PROJECT_DIR$/CS335-Assignment7-SortingComplexObjects/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" default="true" project-jdk-name="22" project-jdk-type="JavaSDK" />
+</project>
