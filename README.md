@@ -32,13 +32,11 @@ java DynamicArrayMain
 
 ## Requirements
 
-- **Java** installed on your machine
-- **Maven** (if you want to use the `pom.xml` for building)
+- **Java 21** (latest release) installed on your machine
+- **Maven** (latest release) if you want to use the `pom.xml` for building
 
 ## License
 
 This project is open-source under the MIT License.
 
 ---
-
-This version keeps it concise and user-friendly. Let me know if you'd like more changes!
