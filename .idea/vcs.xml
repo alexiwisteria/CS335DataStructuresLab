@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/CS335-Assignment4-DynamicArray" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CS335-Assignment5-StableSort" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CS335-Assignment6-RecursiveSort" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CS335-Assignment7-SortingComplexObjects" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/cs335-assignment2-interfaces" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/cs335-assignment3-array-iteration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CS335-Assignment4-DynamicArray" vcs="" />
+    <mapping directory="$PROJECT_DIR$/CS335-Assignment5-StableSort" vcs="" />
+    <mapping directory="$PROJECT_DIR$/CS335-Assignment6-RecursiveSort" vcs="" />
+    <mapping directory="$PROJECT_DIR$/CS335-Assignment7-SortingComplexObjects" vcs="" />
+    <mapping directory="$PROJECT_DIR$/CS335-Assignment8-LinkedList" vcs="" />
+    <mapping directory="$PROJECT_DIR$/cs335-assignment2-interfaces" vcs="" />
+    <mapping directory="$PROJECT_DIR$/cs335-assignment3-array-iteration" vcs="" />
   </component>
 </project>

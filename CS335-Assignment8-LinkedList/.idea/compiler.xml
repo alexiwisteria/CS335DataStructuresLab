@@ -6,14 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="CS335-Assignment4-DynamicArray" />
-        <module name="Cs335-Assignment3" />
-        <module name="Cs335-Assignment7" />
         <module name="Cs335-Assignment8" />
-        <module name="Cs335-Assignment5" />
-        <module name="Assignment2" />
-        <module name="Cs335-Assignment6" />
-        <module name="Cs335-Assignment9" />
       </profile>
     </annotationProcessing>
   </component>
