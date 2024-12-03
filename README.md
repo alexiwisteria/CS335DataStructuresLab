@@ -10,6 +10,10 @@ This repository contains Java implementations of various data structures for the
 - **stable-sort**: Stable sorting algorithm that maintains the order of equal elements.
 - **recursive-sort**: Recursive sorting example, like Merge Sort or Quick Sort.
 - **interfaces**: Demonstrates how to use interfaces in Java with practical examples.
+- **linkedList**: Implementation and examples of Linked List data structures. 
+- **stack**: Implementation of stack operations (push, pop, peek) using arrays or linked lists. 
+- **queue**: Queue implementation with examples of enqueue and dequeue operations. 
+- **hashmaps**: HashMap implementation, showcasing key-value pairs, collision handling, and use cases.
 
 ## Getting Started
 
