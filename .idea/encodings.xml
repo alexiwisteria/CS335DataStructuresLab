@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/CS335-Assignment10-Queue/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CS335-Assignment10-Queue/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CS335-Assignment11-Hashmaps/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CS335-Assignment11-Hashmaps/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CS335-Assignment2-Interfaces/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CS335-Assignment2-Interfaces/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CS335-Assignment3-ArrayIteration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CS335-Assignment3-ArrayIteration/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CS335-Assignment4-DynamicArray/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CS335-Assignment4-DynamicArray/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CS335-Assignment5-StableSort/src/main/java" charset="UTF-8" />
@@ -13,9 +21,5 @@
     <file url="file://$PROJECT_DIR$/CS335-Assignment8-LinkedList/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CS335-Assignment9-Stack/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CS335-Assignment9-Stack/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/cs335-assignment2-interfaces/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/cs335-assignment2-interfaces/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/cs335-assignment3-array-iteration/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/cs335-assignment3-array-iteration/src/main/resources" charset="UTF-8" />
   </component>
 </project>

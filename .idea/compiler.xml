@@ -6,14 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="CS335-Assignment8-LinkedList" />
+        <module name="CS335-Assignment6-RecursiveSort" />
         <module name="CS335-Assignment4-DynamicArray" />
-        <module name="Cs335-Assignment3" />
-        <module name="Cs335-Assignment7" />
-        <module name="Cs335-Assignment8" />
-        <module name="Cs335-Assignment5" />
-        <module name="Assignment2" />
-        <module name="Cs335-Assignment6" />
-        <module name="Cs335-Assignment9" />
+        <module name="CS335-Assignment2-Interfaces" />
+        <module name="CS335-Assignment3-ArrayIteration" />
+        <module name="CS335-Assignment10-Queue" />
+        <module name="CS335-Assignment9-Stack" />
+        <module name="CS335-Assignment7-SortingComplexObjects" />
+        <module name="CS335-Assignment5-StableSort" />
+        <module name="CS335-Assignment11-Hashmaps" />
       </profile>
     </annotationProcessing>
   </component>

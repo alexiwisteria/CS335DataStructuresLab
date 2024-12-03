@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>edu.ensign.cs335.assignment8.structure.list</groupId>
-    <artifactId>Cs335-Assignment8</artifactId>
+    <artifactId>CS335-Assignment8-LinkedList</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
