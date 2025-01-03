@@ -15,6 +15,7 @@
         <module name="CS335-Assignment9-Stack" />
         <module name="CS335-Assignment7-SortingComplexObjects" />
         <module name="CS335-Assignment5-StableSort" />
+        <module name="CS335-Assignment12-BinaryTree" />
         <module name="CS335-Assignment11-Hashmaps" />
       </profile>
     </annotationProcessing>
